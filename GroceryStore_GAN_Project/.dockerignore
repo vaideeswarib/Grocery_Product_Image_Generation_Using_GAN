@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+outputs/eda/
+outputs/evaluation/
+outputs/experiments/
+outputs/reports/
+Screenshots/
+.git/

@@ -1,0 +1,4 @@
+split,images
+train,2000
+validation,300
+test,722
